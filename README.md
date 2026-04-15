@@ -44,7 +44,7 @@ react-chat-app/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/react-chat-app.git
+git clone https://github.com/aniljiA1/anilnxtwaveproject5.git
 cd react-chat-app
 ```
 
